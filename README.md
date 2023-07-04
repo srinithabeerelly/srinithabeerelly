@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BzB9kECvSjQ18VZsXYNw_UoqOYAdXVrO/view?usp=sharing](https://drive.google.com/file/d/1BzB9kECvSjQ18VZsXYNw_UoqOYAdXVrO/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<!---<h3 align="left">Connect with me:</h3>--->
 <p align="left">
   
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/srinitha-beerelly-20017a205/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="https://www.linkedin.com/in/srinitha-beerelly-20017a205/" height="30" width="70" /></a>
